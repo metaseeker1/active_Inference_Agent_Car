@@ -30,3 +30,6 @@ We build an agent that:
 - **Prediction**: Forecasts likely future states to inform actions
 - **Free energy minimization**: Drives the agent’s planning and decision-making
 
+### 🚗 Active Inference Animation
+
+![AI Mountain Car](./plot_4.gif)
